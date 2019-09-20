@@ -1,0 +1,39 @@
+h1 {
+	font-family: "open-sans", sans-serif;
+	font-weight: 64px;
+	display: semibold;
+	color: #1D252C;
+}
+
+h2 {
+	font-family: "open-sans", sans-serif;
+	font-weight: 32px;
+	display: regular;
+	color: #1D252C;
+}
+
+h3 {
+	font-family: "open-sans", sans-serif;
+	font-weight: 18px;
+	display: light;
+	color: #1D252C;
+}
+
+h4 {
+	font-family: "open-sans", sans-serif;
+	font-weight: 16px;
+	display: regular;
+	color: #1D252C;
+}
+
+img {
+	border: 0px;
+	background: transparent;
+	padding: 0px;
+	cursor: pointer;
+}
+
+img[Attributes Style] {
+	width: 280px;
+	height: 280px;
+}
